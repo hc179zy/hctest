@@ -1,0 +1,17 @@
+{
+    "name": "hc179zy/hctest",
+    "description": "hctest",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huang",
+            "email": "hc_179zy@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4":{"hc179zy\\hctest\\":"src"}
+    }
+}
