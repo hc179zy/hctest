@@ -1,0 +1,2 @@
+# hctest
+composer test
